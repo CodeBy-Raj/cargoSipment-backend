@@ -97,7 +97,7 @@ backend/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cargoShipmentTracker.git
+git clone https://github.com/CodeBy-Raj/cargoSipment-backend.git
 cd cargoShipmentTracker/backend
 ```
 
